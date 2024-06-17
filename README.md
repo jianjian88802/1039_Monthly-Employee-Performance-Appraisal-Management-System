@@ -77,19 +77,52 @@
 
 ![输入图片说明](images/770a29f5cb88304c86c5367628865ab.png)
 
-#### 参与贡献
+登录
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![输入图片说明](images/334d64858d9914bc18f7c1d4aa20e9f.png)
+
+1. 管理端
+
+首页
+
+![输入图片说明](images/07fe6fc471d11e900dbe316e5d85c16.png)
+
+公告信息管理
+
+![输入图片说明](images/2c0b950164eaf33bf4678bf5f0f9e75.png)
+
+部门管理
+
+![输入图片说明](images/98489435f499f028b33da4d88cebabf.png)
+
+岗位管理
+
+![输入图片说明](images/7bdc36da6a507f80a5c9a61425a9391.png)
+
+绩效指标管理
+
+![输入图片说明](images/6236fedcd60b013fdc3e5e33482e46a.png)
+
+2. 员工端
+
+绩效指标管理
+
+![输入图片说明](images/d5dea12ac44fc3e704f7fd67e139f16.png)
+
+绩效考核
+
+![输入图片说明](images/c4bb02b7483dc8e1f88c47ba61edb8a.png)
+
+#### 总结
+
+房屋租赁系统通过现代化的技术手段，为管理人员和员工提供了一个高效、安全、便捷的工作平台。系统不仅提升了管理和工作过程的效率，还通过信息化的管理和操作，实现了管理过程的透明化和标准化，确保了信息的准确性和真实性。平台的建立不仅为管理人员和员工带来了极大的便利和保障，同时也促进了组织内部的协调和高效运作，为房屋租赁业务的发展提供了坚实的支持。
 
 
-#### 特技
+#### 使用说明
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+创建数据库，执行数据库脚本 修改jdbc数据库连接参数 下载安装maven依赖jar 启动idea中的springboot项目
+
+后台地址：http://localhost:8080/springboot57n6g/admin/dist/index.html
+
+管理员  abo 密码 abo
+
